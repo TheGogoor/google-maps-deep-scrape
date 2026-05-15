@@ -1,0 +1,258 @@
+{
+  "metadata": {
+    "source": "cities",
+    "country": "uk",
+    "description": "UK music venues \u2014 sample of 25 of 300 cities. Full file regenerated via prepare_locations.py from a hand-curated CSV of UK cities.",
+    "tiers": [
+      [
+        2000000,
+        8
+      ],
+      [
+        700000,
+        6
+      ],
+      [
+        300000,
+        4
+      ],
+      [
+        100000,
+        3
+      ],
+      [
+        0,
+        2
+      ]
+    ],
+    "count": 25,
+    "note": "This is a SAMPLE for illustration. The production scrape used 300 cities."
+  },
+  "locations": [
+    {
+      "key": "london",
+      "name": "London",
+      "state": "",
+      "lat": 51.5072,
+      "lng": -0.1276,
+      "population": 9927020,
+      "grid_dim": 8
+    },
+    {
+      "key": "glasgow",
+      "name": "Glasgow",
+      "state": "",
+      "lat": 55.8617,
+      "lng": -4.2583,
+      "population": 1730280,
+      "grid_dim": 6
+    },
+    {
+      "key": "belfast",
+      "name": "Belfast",
+      "state": "",
+      "lat": 54.5973,
+      "lng": -5.9301,
+      "population": 656593,
+      "grid_dim": 4
+    },
+    {
+      "key": "southend-on-sea",
+      "name": "Southend-on-Sea",
+      "state": "",
+      "lat": 51.5459,
+      "lng": 0.7077,
+      "population": 295310,
+      "grid_dim": 3
+    },
+    {
+      "key": "worthing",
+      "name": "Worthing",
+      "state": "",
+      "lat": 50.8179,
+      "lng": -0.3729,
+      "population": 99110,
+      "grid_dim": 2
+    },
+    {
+      "key": "margate",
+      "name": "Margate",
+      "state": "",
+      "lat": 51.3896,
+      "lng": 1.3868,
+      "population": 60134,
+      "grid_dim": 2
+    },
+    {
+      "key": "sutton-coldfield",
+      "name": "Sutton Coldfield",
+      "state": "",
+      "lat": 52.5704,
+      "lng": -1.824,
+      "population": 107030,
+      "grid_dim": 3
+    },
+    {
+      "key": "cumbernauld",
+      "name": "Cumbernauld",
+      "state": "",
+      "lat": 55.9457,
+      "lng": -3.9925,
+      "population": 51610,
+      "grid_dim": 2
+    },
+    {
+      "key": "derby",
+      "name": "Derby",
+      "state": "",
+      "lat": 52.9225,
+      "lng": -1.4746,
+      "population": 264430,
+      "grid_dim": 3
+    },
+    {
+      "key": "sutton",
+      "name": "Sutton",
+      "state": "",
+      "lat": 51.3614,
+      "lng": -0.194,
+      "population": 187600,
+      "grid_dim": 3
+    },
+    {
+      "key": "bexhill-on-sea",
+      "name": "Bexhill-on-Sea",
+      "state": "",
+      "lat": 50.8499,
+      "lng": 0.4662,
+      "population": 40478,
+      "grid_dim": 2
+    },
+    {
+      "key": "oxford",
+      "name": "Oxford",
+      "state": "",
+      "lat": 51.752,
+      "lng": -1.2577,
+      "population": 161662,
+      "grid_dim": 3
+    },
+    {
+      "key": "halesowen",
+      "name": "Halesowen",
+      "state": "",
+      "lat": 52.4498,
+      "lng": -2.0505,
+      "population": 55265,
+      "grid_dim": 2
+    },
+    {
+      "key": "milton-keynes",
+      "name": "Milton Keynes",
+      "state": "",
+      "lat": 52.0406,
+      "lng": -0.7594,
+      "population": 229941,
+      "grid_dim": 3
+    },
+    {
+      "key": "stretford",
+      "name": "Stretford",
+      "state": "",
+      "lat": 53.4466,
+      "lng": -2.3087,
+      "population": 41953,
+      "grid_dim": 2
+    },
+    {
+      "key": "beckenham",
+      "name": "Beckenham",
+      "state": "",
+      "lat": 51.4082,
+      "lng": -0.0258,
+      "population": 82000,
+      "grid_dim": 2
+    },
+    {
+      "key": "birkenhead",
+      "name": "Birkenhead",
+      "state": "",
+      "lat": 53.3881,
+      "lng": -3.0299,
+      "population": 338036,
+      "grid_dim": 4
+    },
+    {
+      "key": "walsall",
+      "name": "Walsall",
+      "state": "",
+      "lat": 52.5866,
+      "lng": -1.9845,
+      "population": 172141,
+      "grid_dim": 3
+    },
+    {
+      "key": "morden",
+      "name": "Morden",
+      "state": "",
+      "lat": 51.3948,
+      "lng": -0.1943,
+      "population": 48233,
+      "grid_dim": 2
+    },
+    {
+      "key": "kirkcaldy",
+      "name": "Kirkcaldy",
+      "state": "",
+      "lat": 56.1211,
+      "lng": -3.1664,
+      "population": 49460,
+      "grid_dim": 2
+    },
+    {
+      "key": "norwich",
+      "name": "Norwich",
+      "state": "",
+      "lat": 52.6293,
+      "lng": 1.2979,
+      "population": 199245,
+      "grid_dim": 3
+    },
+    {
+      "key": "east-kilbride",
+      "name": "East Kilbride",
+      "state": "",
+      "lat": 55.7644,
+      "lng": -4.177,
+      "population": 74740,
+      "grid_dim": 2
+    },
+    {
+      "key": "warrington",
+      "name": "Warrington",
+      "state": "",
+      "lat": 53.392,
+      "lng": -2.6023,
+      "population": 165456,
+      "grid_dim": 3
+    },
+    {
+      "key": "becontree",
+      "name": "Becontree",
+      "state": "",
+      "lat": 51.5487,
+      "lng": 0.1427,
+      "population": 100000,
+      "grid_dim": 3
+    },
+    {
+      "key": "south-benfleet",
+      "name": "South Benfleet",
+      "state": "",
+      "lat": 51.5537,
+      "lng": 0.5598,
+      "population": 48824,
+      "grid_dim": 2
+    }
+  ]
+}

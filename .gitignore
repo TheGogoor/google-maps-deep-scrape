@@ -1,0 +1,31 @@
+# Never commit API keys
+.env
+.env.*
+*.env
+*.key
+secrets.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# Run artifacts (always per-project, never the skill repo's concern)
+**/run.log
+**/*.lock
+**/progress.json
+**/seen_ids.txt
+**/run_status.txt
+**/scraper.lock
+**/*_clinics.csv
+**/*_venues.csv
+
+# OS noise
+.DS_Store
+Thumbs.db

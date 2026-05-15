@@ -1,0 +1,273 @@
+{
+  "metadata": {
+    "source": "us-zips",
+    "country": "us",
+    "description": "US psychiatric clinics \u2014 sample of 25 of 8,704 zips. Full file regenerated via prepare_locations.py us-zips --states ... --min-pop 5000.",
+    "states": [
+      "PA",
+      "NJ",
+      "DE",
+      "MD",
+      "VA",
+      "WV",
+      "NC",
+      "SC",
+      "GA",
+      "TN",
+      "KY",
+      "FL",
+      "AL",
+      "MS",
+      "AR",
+      "LA",
+      "OH",
+      "IN",
+      "MI",
+      "MO",
+      "MN",
+      "WI",
+      "IA",
+      "IL",
+      "KS",
+      "NE",
+      "ND",
+      "SD",
+      "CO",
+      "OK",
+      "TX"
+    ],
+    "min_pop": 5000,
+    "excluded_cities": [
+      "Chicago"
+    ],
+    "count": 25,
+    "note": "This is a SAMPLE for illustration. The production scrape used 8,704 zips."
+  },
+  "locations": [
+    {
+      "key": "77494",
+      "name": "Katy",
+      "state": "TX",
+      "lat": 29.74,
+      "lng": -95.83,
+      "population": 136190,
+      "grid_dim": 1
+    },
+    {
+      "key": "08701",
+      "name": "Lakewood",
+      "state": "NJ",
+      "lat": 40.09,
+      "lng": -74.21,
+      "population": 126230,
+      "grid_dim": 1
+    },
+    {
+      "key": "34787",
+      "name": "Winter Garden",
+      "state": "FL",
+      "lat": 28.56,
+      "lng": -81.58,
+      "population": 96440,
+      "grid_dim": 1
+    },
+    {
+      "key": "37013",
+      "name": "Antioch",
+      "state": "TN",
+      "lat": 36.04,
+      "lng": -86.64,
+      "population": 86060,
+      "grid_dim": 1
+    },
+    {
+      "key": "30024",
+      "name": "Suwanee",
+      "state": "GA",
+      "lat": 34.05,
+      "lng": -84.07,
+      "population": 85980,
+      "grid_dim": 1
+    },
+    {
+      "key": "73099",
+      "name": "Yukon",
+      "state": "OK",
+      "lat": 35.51,
+      "lng": -97.76,
+      "population": 85300,
+      "grid_dim": 1
+    },
+    {
+      "key": "22193",
+      "name": "Woodbridge",
+      "state": "VA",
+      "lat": 38.64,
+      "lng": -77.35,
+      "population": 81880,
+      "grid_dim": 1
+    },
+    {
+      "key": "80134",
+      "name": "Parker",
+      "state": "CO",
+      "lat": 39.5,
+      "lng": -104.76,
+      "population": 79550,
+      "grid_dim": 1
+    },
+    {
+      "key": "48843",
+      "name": "Howell",
+      "state": "MI",
+      "lat": 42.6,
+      "lng": -83.93,
+      "population": 44460,
+      "grid_dim": 1
+    },
+    {
+      "key": "30528",
+      "name": "Cleveland",
+      "state": "GA",
+      "lat": 34.59,
+      "lng": -83.76,
+      "population": 20690,
+      "grid_dim": 1
+    },
+    {
+      "key": "61832",
+      "name": "Danville",
+      "state": "IL",
+      "lat": 40.14,
+      "lng": -87.61,
+      "population": 24730,
+      "grid_dim": 1
+    },
+    {
+      "key": "18505",
+      "name": "Scranton",
+      "state": "PA",
+      "lat": 41.4,
+      "lng": -75.66,
+      "population": 16770,
+      "grid_dim": 1
+    },
+    {
+      "key": "21044",
+      "name": "Columbia",
+      "state": "MD",
+      "lat": 39.21,
+      "lng": -76.88,
+      "population": 39870,
+      "grid_dim": 1
+    },
+    {
+      "key": "24151",
+      "name": "Rocky Mount",
+      "state": "VA",
+      "lat": 36.99,
+      "lng": -79.89,
+      "population": 15790,
+      "grid_dim": 1
+    },
+    {
+      "key": "55409",
+      "name": "Minneapolis",
+      "state": "MN",
+      "lat": 44.93,
+      "lng": -93.28,
+      "population": 9980,
+      "grid_dim": 1
+    },
+    {
+      "key": "19350",
+      "name": "Landenberg",
+      "state": "PA",
+      "lat": 39.76,
+      "lng": -75.78,
+      "population": 10490,
+      "grid_dim": 1
+    },
+    {
+      "key": "78619",
+      "name": "Driftwood",
+      "state": "TX",
+      "lat": 30.11,
+      "lng": -98.03,
+      "population": 6440,
+      "grid_dim": 1
+    },
+    {
+      "key": "35630",
+      "name": "Florence",
+      "state": "AL",
+      "lat": 34.82,
+      "lng": -87.66,
+      "population": 22030,
+      "grid_dim": 1
+    },
+    {
+      "key": "17043",
+      "name": "Lemoyne",
+      "state": "PA",
+      "lat": 40.24,
+      "lng": -76.89,
+      "population": 5420,
+      "grid_dim": 1
+    },
+    {
+      "key": "22963",
+      "name": "Palmyra",
+      "state": "VA",
+      "lat": 37.86,
+      "lng": -78.26,
+      "population": 15910,
+      "grid_dim": 1
+    },
+    {
+      "key": "70471",
+      "name": "Mandeville",
+      "state": "LA",
+      "lat": 30.41,
+      "lng": -90.06,
+      "population": 20940,
+      "grid_dim": 1
+    },
+    {
+      "key": "66112",
+      "name": "Kansas City",
+      "state": "KS",
+      "lat": 39.11,
+      "lng": -94.77,
+      "population": 10780,
+      "grid_dim": 1
+    },
+    {
+      "key": "20833",
+      "name": "Brookeville",
+      "state": "MD",
+      "lat": 39.17,
+      "lng": -77.05,
+      "population": 7930,
+      "grid_dim": 1
+    },
+    {
+      "key": "38572",
+      "name": "Crossville",
+      "state": "TN",
+      "lat": 35.85,
+      "lng": -85.13,
+      "population": 11330,
+      "grid_dim": 1
+    },
+    {
+      "key": "23518",
+      "name": "Norfolk",
+      "state": "VA",
+      "lat": 36.92,
+      "lng": -76.22,
+      "population": 26250,
+      "grid_dim": 1
+    }
+  ]
+}
